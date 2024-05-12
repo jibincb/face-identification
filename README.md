@@ -34,7 +34,7 @@ Before running the code, ensure you have the following installed:
 ## File Structure
 - main.py: Main script for real-time face detection and verification.
 - detected/: Folder to store detected faces (which will be generated automatically).
-- faces/: Folder containing known faces for verification.
+- faces/: Add images of known faces with file name as their names for verification.
 
 ## Contributions
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
