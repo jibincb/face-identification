@@ -25,14 +25,16 @@ Before running the code, ensure you have the following installed:
    ```bash
    git clone https://github.com/jibincb/face-identification.git
 2. Navigate to the project directory:
+   ```bash
    cd face-identification
-3. Run the script:
-   python face_detection_verification.py
+4. Run the script:
+   ```bash
+   python main.py
 
 ## File Structure
-face_detection_verification.py: Main script for real-time face detection and verification.
-detected/: Folder to store detected faces (which will be generated automatically).
-faces/: Folder containing known faces for verification.
+- main.py: Main script for real-time face detection and verification.
+- detected/: Folder to store detected faces (which will be generated automatically).
+- faces/: Folder containing known faces for verification.
 
 ## Contributions
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
